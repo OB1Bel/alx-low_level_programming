@@ -5,7 +5,7 @@
  * Return :always 0 (Success)
  */
 
-void print_alphabet(void)
+void main(void)
 {
 	char l;
 

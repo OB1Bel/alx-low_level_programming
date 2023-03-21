@@ -5,7 +5,7 @@
  * Return :always 0 (Success)
  */
 
-void main(void)
+int main(void)
 {
 	char l;
 
